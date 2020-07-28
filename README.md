@@ -9,3 +9,6 @@ miscellaneous
 
 ### CDebugThread
 ![CDebugThread](https://github.com/sleepreading/res/blob/master/CDebugThread.png)
+
+### inc-linux.zip
+linux include files
